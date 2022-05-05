@@ -1,0 +1,2 @@
+# Sign-up-newsletter-with-mailchimp
+https://sign-upnewsletter-gango.herokuapp.com/  This project is build with HTML, CSS and nodeJS. It's a single page website with a backend that will allow me to sign people up to my mailing list. If the sign up was successful then I get taken to success page. If it wasn't I get a failure page. Data that got entered in the input gets added to the list on mailchimp and new subscribers gets added.
